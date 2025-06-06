@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ki-ki-24
 - 👀 I’m interested in learning things about cybersecurity.
 - 🌱 I have started learning basic CCNA.
-- 💞️ I’m looking to collaborate on projects involving Python and DBMS.
 - 📫 How to reach me: krishnamadinkumar@gmail.com
 - 😄 Pronouns:She/Her
 - ⚡ Fun fact:Up for pc games.
